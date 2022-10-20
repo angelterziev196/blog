@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "angelterziev195@yahoo.com",
+      "password": "$2a$10$r6hiFnEx4at8W5GC.K6Dj.ukv6yvcKd8mRxrC3T7FwUeHZwjoB5xC",
+      "name": "Angel Terziev",
+      "rePassword": "angelterziev",
+      "id": 1
+    }
+  ]
+}
